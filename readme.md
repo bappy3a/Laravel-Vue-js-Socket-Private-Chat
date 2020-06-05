@@ -1,14 +1,10 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p><a href="https://www.facebook.com/groups/fullstackwebdevelopment/" rel="nofollow">Facebook Group |</a>
-<a href="https://plus.google.com/u/0/communities/113464467764075060760" rel="nofollow">Google Plus |</a>
-<a href="https://www.youtube.com/channel/UCqba1eUmmSCal1DbdaHONZA" rel="nofollow">Youtube  |</a>
-<a href="http://www.sumon-it.com" rel="nofollow">Web Site |</a>
-<a href="https://www.facebook.com/csesumonpro" rel="nofollow">Like Us</a></p>
+<p><a href="https://www.facebook.com/bappy3a/" rel="nofollow">Facebook </a>
 
 # Laravel Vue js Socket One to One Realtime Private Chat
 
-![Laravel Vue js Socket One to One Realtime Private Chat](https://user-images.githubusercontent.com/29582239/57199609-f6f2c080-6fa2-11e9-9333-f2f47b484a1e.PNG)
+![Laravel Vue js Socket Private Chat]
    
 ##Here are the things you will learn in this series:
 
