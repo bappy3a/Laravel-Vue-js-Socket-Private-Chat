@@ -1,8 +1,8 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p><a href="https://www.facebook.com/bappy3a/" rel="nofollow">Facebook </a>
+<p><a href="https://www.facebook.com/bappy3a/" rel="nofollow">Facebook ID</a>
 
-# Laravel Vue js Socket One to One Realtime Private Chat
+# Laravel Vue js Socket Private Chat
 
 ![Laravel Vue js Socket Private Chat]
    
